@@ -3,7 +3,7 @@ The following code uses YOLOv4, Deepsort and Tensorflow to implement object dete
 
 # How it works
 Prerequisites:
--You need python 3.7 to be able to install the Tensorflow version used in this program.
+- You need python 3.7 to be able to install the Tensorflow version used in this program.
 - Make sure your GPU is disabled, this modification works on CPU only.
 
 To run this code, clone it your local machine and unzip the folder.
