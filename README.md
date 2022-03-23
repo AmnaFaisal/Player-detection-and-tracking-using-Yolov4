@@ -5,6 +5,7 @@ The following code uses YOLOv4, Deepsort and Tensorflow to implement object dete
 Prerequisites:
 - You need python 3.7 to be able to install the Tensorflow version used in this program.
 - Make sure your GPU is disabled, this modification works on CPU only.
+- Download pretrained Yolov4 weights from https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT and save them in data folder. 
 
 To run this code, clone it your local machine and unzip the folder.
 On your command prompt, run the following commands:
