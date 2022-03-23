@@ -8,9 +8,9 @@ Prerequisites:
 
 To run this code, clone it your local machine and unzip the folder.
 On your command prompt, run the following commands:
-pip install -r requirements.txt
-python save_model.py --model yolov4 
-python object_tracker.py --video ./data/video/inputvideo.mp4 --output ./outputs/output.avi --model yolov4
+- pip install -r requirements.txt
+- python save_model.py --model yolov4 
+- python object_tracker.py --video ./data/video/inputvideo.mp4 --output ./outputs/output.avi --model yolov4
 (replace inputvideo.mp4 with the name of your input video, and  output.avi with the name you wish to give your output video)
 
 Make sure to upload your input video in the following folder:
