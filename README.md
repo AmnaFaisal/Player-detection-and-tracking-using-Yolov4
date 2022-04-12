@@ -22,4 +22,4 @@ Your output video will be saved in the outputs folder.
 This code is an extension on the following git repository, https://github.com/theAIGuysCode/yolov4-deepsort.
 
 # Improvements
-Although the code works fine otherwise, when a particular player detection (say P) is lost, its assigned a new tracking ID once gained back. If you are tracking player P, you wil notice that its bounding box disappears at the instant, its detection is lost. To regain tracking, click on the player again, and the bounding box shall reappear.
+Although the code works fine otherwise, when a particular player detection (say P) is lost, its assigned a new tracking ID once gained back. If you are tracking player P, you will notice that its bounding box disappears at the instant, its detection is lost. To regain tracking, click on the player again, and the bounding box shall reappear.
